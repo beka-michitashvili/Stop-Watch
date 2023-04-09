@@ -5,7 +5,7 @@ This project is a simple stopwatch created using HTML, CSS, and JavaScript. The 
 🚀 Getting Started
 
 To get started with the stopwatch, simply download or clone the project from GitHub and open the index.html file in your web browser.
-Or you can visit the live link - 
+Or you can visit the live link - https://beka-michitashvili.github.io/Stop-Watch/
 
 🎨 Features
 
