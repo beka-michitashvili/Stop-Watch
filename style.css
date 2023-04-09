@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  background: url(images/swimming-pool.jpg) no-repeat center center/ cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 60%;
+  height: 250px;
+  background-color: #fff;
+  border-radius: 30px;
+  box-shadow: 0 0 3px;
+}
+
+#timer {
+  width: 100%;
+  font-size: 72px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  margin: 0 10px;
+  border: none;
+}
+
+button i {
+  font-size: 2rem;
+  padding: 10px;
+  color: #fff;
+  width: 50px;
+}
+
+#play {
+  background-color: #57c5b6;
+}
+
+#pause {
+  background-color: #ffd93d;
+}
+
+#reset {
+  background-color: #ed2b2a;
+}
